@@ -129,3 +129,13 @@ li.completed {
   background: #28a745;
   color: white;
 }
+.todo-input{
+  position: relative;
+  top: 45px;
+  right: 270px;
+}
+.dark-mode-toggle{
+  position: relative;
+  left: 250px;
+  top: 77px;
+}
